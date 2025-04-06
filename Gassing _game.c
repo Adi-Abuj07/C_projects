@@ -16,13 +16,13 @@ int main(){
         no_of_guesses++;
 
         if(guess<random){
-            printf("Guess a Larger Number..\n");
+            printf("💡 Hint: Try a larger number!\n");
         }
         else if(guess>random){
-            printf("Guess a Smaller Number..\n");
+            printf("💡 Hint: Try a Smaller number!\n");
         }
         else{
-            printf("Congratulations !!!You have successfully guess the Number in %d attempts:",no_of_guesses);
+            printf("🎉 Congratulations! You guessed the number! 🎯\n in %d attempts:",no_of_guesses);
         }
 
     }while (guess!=random);
