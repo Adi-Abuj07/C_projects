@@ -1,6 +1,12 @@
 
+# 🎯 C Projects by Aditya Abuj
 
-# 🎮 Number Guessing Game (C Language)
+This repository contains beginner-friendly C programs to practice and demonstrate basic programming concepts.
+
+_________________________________________________________________________________________________________________________
+
+# Project No 1>>>>>>>
+🎮 Number Guessing Game (C Language)
 
 This is a simple console-based number guessing game written in C. The program generates a random number between **1 and 100**, and the player has to guess the number with hints provided after each attempt.
 
@@ -32,6 +38,37 @@ This is a simple console-based number guessing game written in C. The program ge
 1. Compile the program:
    
    gcc Guessing_game.c -o guess_game
+
+--------------------------------------------------------------------------------------------------
+
+
+# Project No 2>>>>>>>
+ [🧮 Simple C Calculator]
+
+This is a command-line based calculator program written in C. It performs basic arithmetic operations such as addition, subtraction, multiplication, division, modulus, and power.
+
+## 🚀 Features
+- Addition
+- Subtraction
+- Multiplication
+- Division (with zero-division check)
+- Modulus (with zero-division check)
+- Power function
+- Continuous operation until the user chooses to exit
+- Input validation and error handling using `stderr`
+
+## 🧠 How it works
+- The user is prompted to choose an operation from a menu.
+- The user inputs two numbers.
+- The program performs the operation and shows the result.
+- The loop continues until the user selects `Exit`.
+
+## 🛠️ Compilation
+
+To compile the program using GCC:
+
+gcc calculator.c -o myexe
+
 
 
 
