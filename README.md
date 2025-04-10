@@ -30,6 +30,22 @@ This is a simple console-based number guessing game written in C. The program ge
 ---
 
 ## 🧾 Example Output
+Welcome to the world of Gussing Numbers >>>...
+
+ Please enter your Guess between(1 to 100):33
+­ Hint: Try a larger number!
+
+ Please enter your Guess between(1 to 100):66
+ Hint: Try a larger number!
+
+ Please enter your Guess between(1 to 100):88
+­ Hint: Try a larger number!
+
+ Please enter your Guess between(1 to 100):95
+­ Congratulations! You guessed the number! ­
+ in 4 attempts:
+ Bye Bye,Thanks for playing:>>>....
+ Developed by Aditya>>>....
 
 ---
 
