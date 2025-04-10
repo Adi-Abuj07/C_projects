@@ -55,7 +55,7 @@ Welcome to the world of Gussing Numbers >>>...
    
    gcc Guessing_game.c -o guess_game
 
---------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 # Project No 2>>>>>>>
@@ -86,8 +86,27 @@ To compile the program using GCC:
 gcc calculator.c -o myexe
 
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+# 🏏 Cricket Match Stats Management in C
 
+This is a simple C program to manage and display the performance statistics of **batsmen** and **bowlers** in a cricket match.
+
+## 📌 Features
+
+- Input details for multiple batsmen (runs, balls, boundaries, etc.)
+- Input details for multiple bowlers (runs given, overs, wickets)
+- View individual performance
+- Display full match summary
+- Show match records:
+  - Highest run scorer
+  - Most sixes
+  - Most fours
+  - Most wickets
+
+## 🛠️ How to Compile and Run
+gcc cricket.c -o cricket
+./cricket
 
 
 
